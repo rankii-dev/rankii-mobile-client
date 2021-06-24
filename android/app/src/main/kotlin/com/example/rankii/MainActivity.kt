@@ -1,4 +1,4 @@
-package com.example.rankii
+package com.rankii.rankii
 
 import io.flutter.embedding.android.FlutterActivity
 
