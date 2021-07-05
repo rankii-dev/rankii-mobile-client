@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>673109543966-ota76qlscp5gqiv0an9oevtmerqlj68t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.673109543966-ota76qlscp5gqiv0an9oevtmerqlj68t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH-1p-bIaCgyH_59faDB7Yjhx3RgdL_i8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>673109543966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rankii.rankii</string>
+	<key>PROJECT_ID</key>
+	<string>rankii</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rankii.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:673109543966:ios:0e4547779c3ca5a51db20f</string>
+</dict>
+</plist>
